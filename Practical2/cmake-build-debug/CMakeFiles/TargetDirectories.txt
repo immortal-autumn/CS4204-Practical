@@ -1,0 +1,3 @@
+/mnt/e/BILI/P2Y2S1/CS4204-Practical/Practical2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/e/BILI/P2Y2S1/CS4204-Practical/Practical2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/e/BILI/P2Y2S1/CS4204-Practical/Practical2/cmake-build-debug/CMakeFiles/Practical2.dir

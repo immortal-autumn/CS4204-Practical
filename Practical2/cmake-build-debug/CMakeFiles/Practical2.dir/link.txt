@@ -1,0 +1,1 @@
+/usr/bin/cc -g -rdynamic CMakeFiles/Practical2.dir/parrlib.c.o -o Practical2 
